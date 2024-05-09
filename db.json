@@ -1,0 +1,158 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Vì Tinh Tú",
+            "price": "750,000",
+            "image": "https://img.mayflower.vn/2024/02/750k-shimmer-kemdau-thuy-chau-1-247x296.jpg",
+            "title": "Hoa tuoi",
+            "coment": "Vì Tinh Tú - Giỏ hoa xinh mix hài hòa giữa hồng shimmer và hồng kem dâu tạo nên 1 giỏ hoa màu sắc bắt mắt lẫn chất lượng tuyệt hảo.",
+            "content": "Giỏ hoa Vì Tinh Tú bao gồm:\n\nHồng Shimmer\nHồng kem dâu\nLan tường hồng\nThúy châu\nHoa lá và phụ kiện khác"
+          },
+          {
+            "id": 2,
+            "name": "Mặt trời mộng mơ",
+            "price": "850,000",
+            "image": "https://img.mayflower.vn/2024/02/900k-cmd-maoluong-phang-mustang-2-5-1-247x296.jpg",
+            "title": "Hoa tuoi",
+            "category": "hot",
+            "coment": "Mặt Trời Mộng Mơ - bó hoa tone tím một màu sắc vô cùng quyến rũ, nhẹ nhàng mà lại rất bí ẩn;cho thấy một cử chỉ lãng mạn, cảm giác thanh lịch, dịu dàng.",
+            "content": "Bó hoa Mặt Trời Mộng Mơ bao gồm:\n\nCúc mẫu đơn hồng\nPhăng Mustang\nLan tường hồng\nMao lương\nMột số hoa lá và phụ kiện khác"
+          },
+          {
+            "id": 3,
+            "name": "Má em ửng hồng",
+            "price": "1,050,000",
+            "image": "https://img.mayflower.vn/2023/07/z4502838348593_eaea5990495885316972623f11ce3363-247x296.jpg",
+            "title": "Hoa tuoi",
+            "category": "hot",
+            "coment": "Má Em Ửng Hồng - Bó hoa cẩm tú cầu nhập Hà Lan mix màu hồng xanh thể hiện vẻ đẹp kiêu sa chỉ cần ngắm thôi cũng đủ khiến người ta xao xuyến không nguôi.",
+            "content": "Bó hoa Má Em Ửng Hồng bao gồm:\n\nCẩm tú cầu nhập Hà Lan các màu\nHoa lá và phụ kiện khác"
+          },
+          {
+            "id": 4,
+            "name": "Tia nắng lung linh",
+            "price": "1,150,000",
+            "image": "https://img.mayflower.vn/2023/12/1100k-capu-maoluong-247x296.jpg",
+            "title": "Hoa tuoi",
+            "category": "hot",
+            "coment": "Giỏ hoa Tia Nắng Lung Linh – giỏ hoa ngoài ý nghĩa đẹp về tình yêu; loài hoa này còn mang cả ý nghĩa tích cực đối với mối quan hệ bạn bè, đồng nghiệp..",
+            "content": "Giỏ hoa Tia Nắng Lung Linh bao gồm:\n\nMao lương\nCapuchino\nLan tường\nCẩm chướng chùm\nRossi\nĐồng tiền\nMột số hoa lá và phụ kiện khác"
+          },
+          {
+            "id": 5,
+            "name": "Mặt trời chói trang",
+            "price": "650,000",
+            "image": "https://img.mayflower.vn/2023/11/2000k-cucmaudontulip-2-247x296.jpg",
+            "title": "Hoa tuoi",
+            "category": "hot",
+            "coment": "Mặt Trời Chói Chang – bó hoa cúc mẫu đơn tone xanh dương là màu của tuổi trẻ, nhiệt huyết và sáng tạo; sự sẻ chia.",
+            "content": "Giỏ hoa Tia Nắng Lung Linh bao gồm:\n\nMao lương\nCapuchino\nLan tường\nCẩm chướng chùm\nRossi\nĐồng tiền\nMột số hoa lá và phụ kiện khác"
+          },
+          {
+            "id": 6,
+            "name": "Hương Gió Bay",
+            "price": "1,350,000",
+            "image": "https://img.mayflower.vn/2024/02/1000k-tulip-phiyen-phang-tuongxoan-4-247x296.jpg",
+            "title": "Hoa tuoi",
+            "category": "new",
+            "coment": "Hương gió bay – bó hoa cúc mẫu đơn tone xanh dương là màu của tuổi trẻ, nhiệt huyết và sáng tạo; sự sẻ chia.",
+            "content": "Giỏ hoa Tia Nắng Lung Linh bao gồm:\n\nMao lương\nCapuchino\nLan tường\nCẩm chướng chùm\nRossi\nĐồng tiền\nMột số hoa lá và phụ kiện khác"
+          },
+          {
+            "id": 7,
+            "name": "Kết Nối Yêu Thương",
+            "price": "550,000",
+            "image": "https://img.mayflower.vn/2023/11/2100k-cam-CM-lan-ho-diep-tulip-ngoc-trai-2-247x296.jpg",
+            "title": "Hoa tuoi",
+            "category": "new",
+            "coment": "Kết Nối Yêu Thương – Giỏ hoa kết hợp hoàn hảo giữa tone màu vàng kem, xnah dương và hồng tạo nên một giỏ hoa đặc biệt thu hút mọi ánh nhìn.",
+            "content": "Giỏ hoa Kết Nối Yêu Thương bao gồm:\n\nCẩm nhập\nNgọc trai\nMikoto\nLan hồ điệp\nLan tường\nTulip\nHoa lá và phụ kiện khác"
+          },
+          {
+            "id": 47,
+            "name": "Đừng quên tên anh",
+            "price": "1,650,000",
+            "image": "https://img.mayflower.vn/2018/10/dung-quen-ten-anh-1-2-247x296.jpg",
+            "title": "Hoa tuoi",
+            "category": "new",
+            "coment": "Đừng quên tên anh – Giỏ hoa kết hợp hoàn hảo giữa tone màu vàng kem, xnah dương và hồng tạo nên một giỏ hoa đặc biệt thu hút mọi ánh nhìn.",
+            "content": "Giỏ hoa Đừng quên tên anh bao gồm:\n\nCẩm nhập\nNgọc trai\nMikoto\nLan hồ điệp\nLan tường\nTulip\nHoa lá và phụ kiện khác"
+          },
+          {
+            "id": 8,
+            "name": "Ngôi Sao cô đơn",
+            "price": "1,250,000",
+            "image": "https://img.mayflower.vn/2022/08/ngoi-sao-co-don-247x296.jpg",
+            "title": "Hoa tuoi",
+            "category": "new",
+            "coment": "Ngôi Sao cô đơn – Giỏ hoa kết hợp hoàn hảo giữa tone màu vàng kem, xnah dương và hồng tạo nên một giỏ hoa đặc biệt thu hút mọi ánh nhìn.",
+            "content": "Giỏ hoa Ngôi Sao cô đơn bao gồm:\n\nCẩm nhập\nNgọc trai\nMikoto\nLan hồ điệp\nLan tường\nTulip\nHoa lá và phụ kiện khác"
+          },
+          {
+            "id": 9,
+            "name": "Cột dây tơ duyên",
+            "price": "1,350,000",
+            "image": "https://img.mayflower.vn/2022/09/cot-day-to-duyen-247x296.jpg",
+            "title": "Hoa tuoi",
+            "coment": "Cột dây tơ duyên – Giỏ hoa kết hợp hoàn hảo giữa tone màu vàng kem, xnah dương và hồng tạo nên một giỏ hoa đặc biệt thu hút mọi ánh nhìn.",
+            "content": "Giỏ hoa Cột dây tơ duyên bao gồm:\n\nCẩm nhập\nNgọc trai\nMikoto\nLan hồ điệp\nLan tường\nTulip\nHoa lá và phụ kiện khác"
+          },
+          {
+            "id": 10,
+            "name": "Yêu xa",
+            "price": "550,000",
+            "image": "https://img.mayflower.vn/2018/08/yeu-xa-2-247x296.jpg",
+            "title": "Hoa tuoi",
+            "coment": "Yêu xa – Giỏ hoa kết hợp hoàn hảo giữa tone màu vàng kem, xnah dương và hồng tạo nên một giỏ hoa đặc biệt thu hút mọi ánh nhìn.",
+            "content": "Giỏ hoa Yêu xa bao gồm:\n\nCẩm nhập\nNgọc trai\nMikoto\nLan hồ điệp\nLan tường\nTulip\nHoa lá và phụ kiện khác"
+          },
+          {
+            "id": 11,
+            "name": "Bó 200 bông hồng phấn",
+            "price": "1,550,000",
+            "image": "https://product.hstatic.net/200000427529/product/67b42fd8-8615-437e-b617-f51e628dbb42_0f0b738d958c47d4921d6ee6fe5b5c9f_master.jpg",
+            "title": "Hoa Sap",
+            "coment": "Bó 200 bông hồng phấn – Giỏ hoa kết hợp hoàn hảo giữa tone màu vàng kem, xnah dương và hồng tạo nên một giỏ hoa đặc biệt thu hút mọi ánh nhìn.",
+            "content": "Giỏ hoa Yêu xa bao gồm:\n\n100 bông hồng Ecuador Heart nhập khẩu\nBaby\nHoa lá và phụ kiện khác"
+          },
+          {
+            "id": 12,
+            "name": "Bó 100 bông hồng đỏ",
+            "price": "1,200,000",
+            "image": "https://product.hstatic.net/200000427529/product/9fae23e2-9477-45fc-ac3b-bb1fa588b55a_7a80492b886f45aa807c1a8b342df5fb_master.jpg",
+            "title": "Hoa Sap",
+            "coment": "Bó 100 bông hồng đỏ - tình yêu bất tử, mong muốn gắn bó lâu dài, bền chặt. Bó theo phong cách hiện đại, sang trọng, tinh tế, kiêu hãnh.",
+            "content": "Bó hồng Bó 100 bông hồng đỏ bao gồm:\n\n100 bông hồng Ecuador Heart nhập khẩu\nBaby\nMột số phụ kiện khác"
+          },
+          {
+            "id": 13,
+            "name": "Bó hồng xanh",
+            "price": "700,000",
+            "image": "https://product.hstatic.net/200000427529/product/55d19128-6cc8-4725-a4e1-de234d7d88f7_592b56687964479a948130cd9bd4e7bf_master.jpg",
+            "title": "Hoa Sap",
+            "coment": "Bó hồng xanh - tình yêu bất tử, mong muốn gắn bó lâu dài, bền chặt. Bó theo phong cách hiện đại, sang trọng, tinh tế, kiêu hãnh.",
+            "content": "Bó hồng xanh bao gồm:\n\n990 bông hồng sáp nhập khẩu\nBaby\nMột số phụ kiện khác"
+          },
+          {
+            "id": 14,
+            "name": "Bó Hoa Hồng Sáp",
+            "price": "800,000",
+            "image": "https://product.hstatic.net/200000427529/product/0f52e6b5-5f6d-4b24-84d3-33ee7886710f_9c73e8df97b24ae6be2627a89ef9975e_master.jpg",
+            "title": "Hoa Sap",
+            "coment": "Bó Hoa Hồng Sáp- tình yêu bất tử, mong muốn gắn bó lâu dài, bền chặt. Bó theo phong cách hiện đại, sang trọng, tinh tế, kiêu hãnh.",
+            "content": "Bó hồng Bó 100 bông hồng đỏ bao gồm:\n\n990 bông hồng sáp nhập khẩu\nBaby\nMột số phụ kiện khác"
+          },
+          {
+            "id": 16,
+            "name": "Bó 99 Bông Vàng Gold ",
+            "price": "900,000",
+            "image": "https://product.hstatic.net/200000427529/product/90c1ae11-721d-489b-9a35-21b9c8230ff8_f3cdf3df4f5447fab4771a948b66cc94_master.jpg",
+            "title": "Hoa Sap",
+            "coment": "Bó Hoa Hồng Sáp- tình yêu bất tử, mong muốn gắn bó lâu dài, bền chặt. Bó theo phong cách hiện đại, sang trọng, tinh tế, kiêu hãnh.",
+            "content": "Bó hồng Bó 100 bông hồng đỏ bao gồm:\n\n990 bông hồng sáp nhập khẩu\nBaby\nMột số phụ kiện khác"
+          }
+
+    ]
+   
+  }
